@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer vision and emb.
 - 🌱 I’m currently learning machine learning.
 - 📫 How to reach me lijunyu9811@gmail.com.
-- organizion: https://github.com/visiongo-kr
 
 <!---
 Namedqianli/Namedqianli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
